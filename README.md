@@ -21,5 +21,5 @@ This implementation of ***GraphMask Explainer*** demonstrates explainability exa
 -	To see the ***model-agnostic*** explainability layer’s implementation, check `graphmask_explainer.py`.
 -	To train and generate explanations for any of the aforementioned tasks, run `graphmask_explainer_example.py`.
 -	All hyperparameters’ settings can be tweaked (based on requirements) by altering their corresponding values provided in both `graphmask_explainer.py` and `graphmask_explainer_example.py` files.
-### Results
+## Results
 
