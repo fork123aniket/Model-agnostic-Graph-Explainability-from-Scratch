@@ -4,7 +4,9 @@ This repository holds a graph explainability solution, which extends the work ([
 ## Requirements
 -	`PyTorch Geometric`
 -	`PyTorch`
--	`Numpy`
+-	`numpy`
+- `scikit-learn`
+- `tqdm`
 ## Usage
 ### Data
 This implementation of ***GraphMask Explainer*** demonstrates explainability examples for ***GCN***, ***GAT***, and ***RGCN*** *layer-types* on ***Node Classification (NC)***, ***Graph Classification (GC)***, and ***Link Prediction (LP)*** tasks.
